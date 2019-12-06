@@ -3,6 +3,8 @@ Immersive 3D visualizations of planetary collisions using smoothed particle hydr
 
 ![](figures/sph_unity_vr.gif)
 
+This project is supported by the University of Arizona/GPSC research grant, "Virtual Reality Gives New Insights Into How Planets Form"
+
 ## Getting started with Unity
 1. Import our [Unity Package](https://drive.google.com/file/d/16RV8RiZHvaY7cy8e_RRx_m3EnEvnhdvy/view?usp=sharing)
 2. Import [SteamVR plugin](https://assetstore.unity.com/packages/tools/integration/steamvr-plugin-32647) from Asset Store
